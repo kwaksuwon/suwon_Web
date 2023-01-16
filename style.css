@@ -38,6 +38,10 @@ section h2 {
 #title, #call, #gallery, #video, #location {
   background-color: #fff4f4;
 }
+
+#main_image {
+  border-radius: 10px 10px 10px 10px;
+}
   
 #title img {
   width: 100%;
