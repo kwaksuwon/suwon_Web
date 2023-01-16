@@ -21,13 +21,13 @@ body {
   /* font-family: 'Nanum Myeongjo', serif; */
   color: #444;
   font-size: 16px;
-  background-color: #fffff0;
+  background-color: #C8A4B5;
   max-width: 500px;
   margin: 0 auto;
 }
 
 section {
-  background-color: #fff;
+  background-color: #C8A4B5;
 }
 
 section h2 {
